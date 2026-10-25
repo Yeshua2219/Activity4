@@ -1,0 +1,13 @@
+Hi! I am Reivin Lasic the Project Manager of the CCMC RTW Shop
+
+My tasks are: 
+- Frontend 
+- Scrum Master 
+- UI/UX Design 
+- Documentation
+
+
+Tasks Description:
+As a Project Manager i assigned tasks for my group members and monitor their works. As a Scrum Master
+I record what we accomplish for the whole week and what we will accomplish for the next week. For the documentation I 
+worked on the backgorund of the CCMC RTW Shop, I managed the interview with the client, and compile the deliverable that we needed.
