@@ -1,0 +1,12 @@
+Hi! I am Joanna Rose Botin, a member of the CCMC RTW Shop project.
+
+My tasks are:
+- Frontend
+- UI/UX Design
+- Documentation
+
+Tasks Description:
+
+For the CCMC RTW Shop project, I cloned the project repository to my local device, created my own branch named `feature/joanna-botin` on GitHub, and fetched the latest branch information using VS Code.
+
+For my assigned roles, I will work on frontend development, UI/UX design, and project documentation. I will update this file as I complete my assigned tasks.
